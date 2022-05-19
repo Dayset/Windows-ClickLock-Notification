@@ -30,10 +30,11 @@ Notes:
     - Beep tone and duration are predefined
     
     - Tooltip is a Unicode ╳ symbol   
- ![WindowsClickLockTooltipScreenshotDoubleSize](https://user-images.githubusercontent.com/17880263/169332431-ceb77731-6792-46d7-a21a-ab14fcb0c81d.png)
 
 Bugs:
 
     - Small crackling sounds at Beep
     
     - It might not work sometimes 😀
+    
+Icon: https://www.pngkey.com/detail/u2e6r5e6i1o0o0t4_lock-lock-pixel-art/
