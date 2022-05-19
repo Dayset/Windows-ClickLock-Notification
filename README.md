@@ -29,7 +29,7 @@ Notes:
     
     - Beep tone and duration are predefined
     
-    - Tooltip is Unicode ╳ symbol   
+    - Tooltip is a Unicode ╳ symbol   
  ![WindowsClickLockTooltipScreenshotDoubleSize](https://user-images.githubusercontent.com/17880263/169332431-ceb77731-6792-46d7-a21a-ab14fcb0c81d.png)
 
 Bugs:
