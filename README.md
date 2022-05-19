@@ -1,18 +1,13 @@
 # Windows ClickLock Notification
 A small application that notifies the user when Windows ClickLock is Active.
 
-The script was made to use with Autohotkey software (GPL https://www.autohotkey.com/docs/license.htm)
 
-Or as a standalone EXE file compiled by AHK2EXE.
+[<sub>Link to direct Download</sub>](https://github.com/Dayset/Windows-ClickLock-Notification/raw/main/Windows_ClickLock_Notification.exe)
 
-The application uses less than 3 Mb of RAM and very few CPU cycles.
-
-=======================================================================
+The script was made to use with Autohotkey software. Or as a standalone EXE file compiled by AHK2EXE. The application uses less than 3 Mb of RAM and very few CPU cycles.
 
 
-**The Problem:** ClickLock in Windows 10 Mouse Settings does not have any notification when active.
-
-ClickLock sometimes makes sense with TouchPad. However, I have never used this feature with a standard mouse.
+**The Problem:** ClickLock in Windows 10 Mouse Settings does not have any notification when active. ClickLock sometimes makes sense with TouchPad. However, I have never used this feature with a standard mouse.
 
 
 **The Solution:** Start an internal counter and beep + show a small tooltip near the mouse cursor when ~5s is passed.
@@ -37,4 +32,4 @@ Bugs:
     
     - It might not work sometimes 😀
     
-Icon: https://www.pngkey.com/detail/u2e6r5e6i1o0o0t4_lock-lock-pixel-art/
+[Icon file](https://www.pngkey.com/detail/u2e6r5e6i1o0o0t4_lock-lock-pixel-art/)
